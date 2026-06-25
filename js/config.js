@@ -20,14 +20,14 @@ const SITE_CONFIG = {
   providers: [
     {
       name: "可乐云 ColaCloud",
-      url: "https://colacloud.online/#/register?code=YOUR_CODE",
+      url: "https://kelea.ih004.com/#/register?code=woee0nOh",
       desp: "【可乐云】IEPL 国际专线，Trojan/SS 协议，全球 20+ 国家 60+ 节点。新用户 500GB 免费试用 3 天，月付低至 ¥38/350G。解锁 Netflix、Disney+、ChatGPT 等流媒体，负载均衡自动切换，敏感期抗墙稳定。优惠码 HJLQXKTR 享 8 折。",
       weight: 85,
       badge: "推荐",
     },
     {
       name: "魔戒机场 Mojie",
-      url: "https://mojie.app/#/register?code=YOUR_CODE",
+      url: "https://mojie.app/register?aff=tiKAq4Hp",
       desp: "【魔戒机场】按量计费、不限时间，用多少买多少，适合轻度用户。邀请码注册可 ¥1 体验 2G 流量（无限期）。130G ¥14.9 起，支持 ChatGPT/Gemini 专线节点，晚高峰 4K 流畅，港/日/新/美/台等多地优化线路，流媒体全解锁。",
       weight: 90,
       badge: "热门",
